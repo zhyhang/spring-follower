@@ -1,4 +1,4 @@
-package com.zyh.spring.follower.boot.jpa.model;
+package com.zyh.spring.follower.boot.jpa.app;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
